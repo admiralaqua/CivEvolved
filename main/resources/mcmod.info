@@ -2,12 +2,12 @@
 {
   "modid": "civevolved",
   "name": "civevolved",
-  "description": "Example placeholder mod.",
+  "description": "A mod coded specifically for the server Civilization: Evolved",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Sharpcastle33"],
+  "authorList": ["Sharpcastle33"], ["Aquadude27"]
   "credits": "Sharp and Aqua",
   "logoFile": "",
   "screenshots": [],
